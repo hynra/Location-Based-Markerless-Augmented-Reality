@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c3d7362b90e8d1c45ad31617f8012ae4
+timeCreated: 1444668967
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _kudanLogo: {fileID: 2800000, guid: 89ead21c242156440b32fc01cda57d93, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

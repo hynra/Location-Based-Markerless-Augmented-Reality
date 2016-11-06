@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd356cd00f92b8347a328268d93cc830
+timeCreated: 1445327844
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _renderingCamera: {instanceID: 0}
+  - _background: {instanceID: 0}
+  - _debugFlatShader: {fileID: 4800000, guid: 77bf49bfd6401264c9188fbab4747013, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
